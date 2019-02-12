@@ -29,3 +29,11 @@ chmod +x ./selenium_setup.sh
 - FileName -> (string) Name of file without any extension
 - dirPath -> (string) Full directory path where file is to be donwloaded. default - rp5_ddmmYYYY
 - extract -> (bool) Weather to extract the downloaded .xls.gz file. Default - True
+
+## References - 
+### rp5.in
+1. http://rp5.in/
+### Web scraping
+1. https://automatetheboringstuff.com/chapter11/
+### Selenium module
+1. https://selenium-python.readthedocs.io/locating-elements.html#locating-elements
